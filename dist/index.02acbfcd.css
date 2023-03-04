@@ -1,0 +1,419 @@
+@font-face {
+  font-family: Pacifico;
+  src: url("Pacifico-Regular.490218a6.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url("Poppins-Regular.6d197962.ttf");
+}
+
+:root {
+  font-family: Poppins;
+}
+
+#search, #recenter, .line_align {
+  justify-content: center;
+  display: flex;
+}
+
+header {
+  justify-content: center;
+  margin: 0 2% 25px;
+  display: flex;
+}
+
+#title {
+  color: #54a3ff;
+  font-family: Pacifico;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  display: inline;
+  position: relative;
+  top: -13px;
+  left: -10px;
+}
+
+.nav_btn {
+  color: #54a3ff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.nav_div {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+#nav_warper {
+  flex: 2.4;
+  justify-content: end;
+  display: inline-flex;
+}
+
+.div_img {
+  flex: 1;
+}
+
+.Home {
+  margin-right: 2em;
+}
+
+#house_img {
+  width: 100px;
+  height: 100px;
+}
+
+#recenter {
+  align-items: center;
+  position: absolute;
+  top: 40px;
+  left: 50%;
+  right: 50%;
+}
+
+.filter_div {
+  max-width: 90px;
+  flex-direction: column;
+  align-items: center;
+  margin: 9px 10px -5px;
+  display: flex;
+}
+
+.flex {
+  justify-content: center;
+  display: flex;
+}
+
+#search_btn {
+  height: 60px;
+  width: 112px;
+  background: #54a3ff url("image 1.4fd5bee2.png") center no-repeat;
+  border-radius: 0 10px 10px 0;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+#search_input {
+  text-align: center;
+  width: 294px;
+  height: 58px;
+  caret-color: #595959;
+  caret-color: #595959;
+  background-color: #f2f2f2;
+  border-radius: 10px 0 0 10px;
+  outline: none;
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+#search_input:empty::placeholder {
+  color: #595959;
+  transition: all .2s ease-in-out;
+}
+
+#search_input:focus::placeholder {
+  color: #0000;
+}
+
+#search_input, #search_btn {
+  border-style: none;
+}
+
+.line {
+  width: 1000px;
+  height: 2px;
+  background-color: #9c9c9c;
+}
+
+.img_filter {
+  width: 40px;
+  height: 40px;
+  opacity: .4;
+}
+
+.txt_filter {
+  color: #9c9c9c;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+#filter_btn {
+  width: 161px;
+  height: 60px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+  position: absolute;
+  top: 169px;
+  right: 28px;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+#column {
+  flex-direction: column;
+  display: flex;
+}
+
+#FILTER {
+  color: #595959;
+  font-size: 18px;
+}
+
+.line_black {
+  width: 40px;
+  border: 1px solid #000;
+  margin: 4px;
+}
+
+#blue_circle_start, #blue_circle_end, #blue_circle_left {
+  z-index: 1;
+  height: 8px;
+  width: 8px;
+  background-color: #54a3ff;
+  border: 1px solid #000;
+  border-radius: 50%;
+  position: absolute;
+}
+
+#blue_circle_start {
+  top: 15px;
+  left: 27px;
+}
+
+#blue_circle_end {
+  top: 25px;
+  left: 52px;
+}
+
+#blue_circle_left {
+  top: 35px;
+  left: 32px;
+}
+
+.align_center {
+  text-align: center;
+}
+
+.h1 {
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.h3 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.mr-10 {
+  margin-top: 10px;
+}
+
+.center {
+  justify-content: center;
+  display: flex;
+}
+
+.inline_flex {
+  display: inline-flex;
+}
+
+#img_list {
+  column-count: 3;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5%;
+  margin-top: 54px;
+  display: inline-flex;
+}
+
+.S-20 {
+  font-size: 20px;
+}
+
+.space-between {
+  justify-content: space-between;
+  display: flex;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+#wrap_div {
+  margin-top: 60px;
+  padding-left: 5%;
+}
+
+#starNprice {
+  width: 786px;
+  height: 60px;
+  justify-content: space-between;
+  display: flex;
+}
+
+#reservation_form {
+  width: 365px;
+  height: 436px;
+  border-radius: 50px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  box-shadow: 0 0 4px 3px #00000040;
+}
+
+#dates_inputs {
+  height: 75px;
+  gap: 11px;
+  margin-top: 33px;
+  display: inline-flex;
+}
+
+.input_label {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.date_input, #guests_input {
+  width: 133px;
+  height: 54.72px;
+  border: .5px solid #d0d0d0;
+  border-radius: 0;
+}
+
+#guests_input {
+  width: 288.16px;
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+#reserve_button {
+  width: 288.16px;
+  height: 52.96px;
+  color: #fff;
+  background-color: #54a3ff;
+  border: 0;
+  border-radius: 10px;
+  margin: 10px 0 20px;
+  font-size: 18px;
+  font-weight: 700;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.price_div {
+  width: 288.16px;
+  height: 40px;
+  justify-content: space-between;
+  display: inline-flex;
+}
+
+.price_text, .price_text_bold {
+  color: #595959;
+  font-size: 14px;
+}
+
+#price_gray_lign {
+  height: 1px;
+  width: 288px;
+  opacity: .4;
+  background-color: #000;
+  margin: 10px 0 0;
+}
+
+.price_text_bold {
+  color: #000;
+  font-weight: 900;
+}
+
+.recenter_div {
+  flex-direction: column;
+  display: flex;
+}
+
+#wrap_imgNform {
+  min-width: 95%;
+  justify-content: space-between;
+  display: inline-flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2 {
+  color: #000;
+}
+
+#host {
+  width: 500px;
+  justify-content: space-between;
+  align-items: center;
+  display: inline-flex;
+}
+
+#align_textNimg {
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  display: inline-flex;
+}
+
+#host_name {
+  text-align: end;
+  size: 18px;
+  width: 100px;
+  color: #54a3ff;
+  font-size: 18px;
+  display: flex;
+}
+
+#host_img {
+  width: 64px;
+  height: 64px;
+}
+
+#gray_lign {
+  height: 1px;
+  width: 500px;
+  background-color: #9c9c9c;
+  margin: 10px 0 30px;
+}
+
+#advantage {
+  gap: 24px;
+  display: inline-flex;
+}
+
+.advantage_div {
+  max-width: 74px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+.advantage_img {
+  width: 40px;
+  height: 40px;
+  opacity: .4;
+}
+
+.advantage_name {
+  text-align: center;
+  opacity: .4;
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=index.02acbfcd.css.map */
