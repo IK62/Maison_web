@@ -1,15 +1,14 @@
 @font-face {
     font-family: 'Pacifico';
     src: url('./static/fonts/Pacifico-Regular.ttf');
+    font-display: swap;
 }
 @font-face {
     font-family: 'Poppins';
     src: url('./static/fonts/Poppins/Poppins-Regular.ttf');
+    font-display: swap;
 }
 
-@media (768px <= width <= 1024px) {
-    /* mobile in dev */
-}
 
 :root{
     font-family: 'Poppins';
@@ -29,7 +28,6 @@ header{
 
 
 #title{
-    display: inline;
     position: relative;
     font-family: 'Pacifico';
     font-style: normal;
@@ -359,6 +357,7 @@ header{
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 h1, h2{
@@ -422,4 +421,86 @@ h1, h2{
     text-align: center;
     font-size: 14px;
     opacity: 0.4;
+}
+
+
+@media (768px <= width <= 1024px) {
+
+}
+
+@media (0px <= width < 768px) {
+    .div_img{
+        display: flex;
+        flex-direction: column;
+        padding: 20px 0 0 10px;
+    }
+    #title{
+        top: -17px;
+        left: 10px;
+        font-size: 12px;
+    }
+    #house_img{
+        width: 60px;
+        height: 60px;
+    }
+    #nav_warper{
+        display: flex;
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .nav_div{
+        justify-content: end;
+        padding-right: 50px;
+    }
+    #recenter{
+        position: static;
+        top: auto;
+        left: auto;
+        right: auto;
+    }
+    #filter_btn{
+        right: auto;
+        top: 295px;
+        left: 16px;
+    }
+    #img_list{
+        margin-top: 130px;
+        width: 100%;
+        flex-direction: column;
+        gap: 19px;
+    }
+    a[href*="showcase"]{
+        display: flex;
+        flex-direction: row;
+    }
+    .space-between{
+        flex-direction: column;
+        width: 20%;
+    }
+    .order_1{
+        overflow: visible;
+        white-space: nowrap;
+        padding-top: 40px;
+        order: 1;
+    }
+    .order_2{
+        overflow: visible;
+        white-space: nowrap;
+        order: 2;
+    }
+    .fw-700{
+        margin-left: -100%;
+        font-size: 18px;
+    }
+    .fw-400{
+        font-size: 15px;
+    }
+    .img_margin{
+        margin: 0px 30px 0px 0px;
+    }
+    .flex_end{
+        align-self: flex-end;
+    }
 }

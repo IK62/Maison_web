@@ -1,7 +1,7 @@
 4329
-24C:\cours\Maison_web\dist133224026217209751 1
+24C:\cours\Maison_web\dist133228364836627969 1
 53C:\cours\Maison_web\node_modules\@parcel\packager-svg133209312051501907 1
-36C:\cours\Maison_web\views\about.html133213890154168373 0
+36C:\cours\Maison_web\views\about.html133228364836257643 0
 79C:\cours\Maison_web\node_modules\@swc\helpers\src\_class_private_method_set.mjs133209312054409419 0
 56C:\cours\Maison_web\node_modules\mdn-data\css\units.json133209312046217362 0
 70C:\cours\Maison_web\node_modules\@parcel\utils\test\objectHash.test.js133209312061805779 0
@@ -62,7 +62,7 @@
 67C:\cours\Maison_web\node_modules\css-tree\lib\syntax\node\Number.js133209312052687934 0
 37C:\cours\Maison_web\package-lock.json133209312104362035 0
 81C:\cours\Maison_web\node_modules\caniuse-lite\data\features\css-initial-letter.js133209312058598013 0
-35C:\cours\Maison_web\views\index.css133224026216974256 0
+35C:\cours\Maison_web\views\index.css133228364748617651 0
 65C:\cours\Maison_web\views\static\fonts\Poppins\Poppins-Italic.ttf130777596000000000 0
 52C:\cours\Maison_web\node_modules\is-number\README.md133209312038685895 0
 70C:\cours\Maison_web\node_modules\svgo\plugins\removeEmptyContainers.js133209312049129869 0
@@ -76,7 +76,7 @@
 58C:\cours\Maison_web\node_modules\tslib\CopyrightNotice.txt133209312043234798 0
 58C:\cours\Maison_web\node_modules\htmlparser2\lib\Parser.js133209312039131269 0
 45C:\cours\Maison_web\node_modules\mdn-data\css133209312046292434 1
-36C:\cours\Maison_web\views\index.html133222273439501396 0
+36C:\cours\Maison_web\views\index.html133227592023013916 0
 74C:\cours\Maison_web\node_modules\caniuse-lite\data\features\audiotracks.js133209312048344194 0
 70C:\cours\Maison_web\node_modules\caniuse-lite\data\features\rellist.js133209312069097050 0
 61C:\cours\Maison_web\node_modules\css-tree\lib\syntax\function133209312055014928 1
@@ -677,7 +677,7 @@
 99C:\cours\Maison_web\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts.map133209312043234798 0
 61C:\cours\Maison_web\node_modules\mdn-data\css\properties.json133209312044971384 0
 50C:\cours\Maison_web\node_modules\yaml\parse-cst.js133209312045812016 0
-45C:\cours\Maison_web\dist\image 7.8e24f03c.png133224021496458170 0
+45C:\cours\Maison_web\dist\image 7.8e24f03c.png133228337269224289 0
 50C:\cours\Maison_web\node_modules\stable\index.d.ts133209312037159586 0
 47C:\cours\Maison_web\node_modules\yaml\scalar.js133209312046697776 0
 49C:\cours\Maison_web\node_modules\tslib\tslib.html133209312037414793 0
@@ -1000,7 +1000,7 @@
 49C:\cours\Maison_web\node_modules\clone\.npmignore133209312037259657 0
 68C:\cours\Maison_web\node_modules\update-browserslist-db\package.json133209312041002879 0
 73C:\cours\Maison_web\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133209312055915704 1
-53C:\cours\Maison_web\dist\Poppins-Regular.6d197962.ttf133224021496152908 0
+53C:\cours\Maison_web\dist\Poppins-Regular.6d197962.ttf133228337268628777 0
 72C:\cours\Maison_web\node_modules\htmlparser2\lib\WritableStream.d.ts.map133209312043359915 0
 64C:\cours\Maison_web\node_modules\lmdb\dependencies\lz4\lib\lz4.c133209312046687774 0
 68C:\cours\Maison_web\node_modules\caniuse-lite\dist\unpacker\index.js133209312065168674 0
@@ -1025,7 +1025,7 @@
 65C:\cours\Maison_web\node_modules\@jridgewell\source-map\README.md133209312042524189 0
 55C:\cours\Maison_web\node_modules\json5\lib\stringify.js133209312043500022 0
 67C:\cours\Maison_web\node_modules\type-fest\ts41\delimiter-case.d.ts133209312043379925 0
-42C:\cours\Maison_web\dist\views.9ae6abd1.js133224021496813477 0
+42C:\cours\Maison_web\dist\views.9ae6abd1.js133228337269459493 0
 55C:\cours\Maison_web\node_modules\term-size\package.json133209312042319010 0
 77C:\cours\Maison_web\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133209312047018052 0
 88C:\cours\Maison_web\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133209312055930722 0
@@ -1521,7 +1521,7 @@
 75C:\cours\Maison_web\node_modules\posthtml-parser\dist\location-tracker.d.ts133209312042684325 0
 58C:\cours\Maison_web\node_modules\import-fresh\package.json133209312037860179 0
 73C:\cours\Maison_web\node_modules\posthtml-parser\dist\location-tracker.js133209312039026177 0
-49C:\cours\Maison_web\dist\Rectangle 7.9910be6c.png133224021496953606 0
+49C:\cours\Maison_web\dist\Rectangle 7.9910be6c.png133228337269484519 0
 67C:\cours\Maison_web\node_modules\caniuse-lite\data\features\opus.js133209312068056151 0
 74C:\cours\Maison_web\node_modules\.bin\node-gyp-build-optional-packages.ps1133209312097055746 0
 45C:\cours\Maison_web\node_modules\posthtml\lib133209312037895208 1
@@ -1902,7 +1902,7 @@
 58C:\cours\Maison_web\node_modules\@parcel\fs-search\LICENSE133209312044120573 0
 63C:\cours\Maison_web\node_modules\@parcel\core\lib\loadDotEnv.js133209312061125193 0
 50C:\cours\Maison_web\node_modules\csso\package.json133209312049234956 0
-45C:\cours\Maison_web\dist\image 1.4fd5bee2.png133224021496473181 0
+45C:\cours\Maison_web\dist\image 1.4fd5bee2.png133228337269219291 0
 58C:\cours\Maison_web\node_modules\csso\lib\replace\property133209312046672755 1
 57C:\cours\Maison_web\node_modules\is-arrayish\package.json133209312036639124 0
 59C:\cours\Maison_web\node_modules\@parcel\utils\lib\index.js133209312061555561 0
@@ -2093,7 +2093,7 @@
 64C:\cours\Maison_web\node_modules\caniuse-lite\data\regions\KZ.js133209312066304652 0
 57C:\cours\Maison_web\node_modules\@parcel\optimizer-terser133209312056896551 1
 49C:\cours\Maison_web\node_modules\is-json\index.js133209312039451545 0
-46C:\cours\Maison_web\dist\about.aa381532.js.map133224021496943599 0
+46C:\cours\Maison_web\dist\about.aa381532.js.map133228337269514564 0
 72C:\cours\Maison_web\node_modules\caniuse-lite\data\features\atob-btoa.js133209312047723661 0
 48C:\cours\Maison_web\node_modules\is-json\LICENSE133209312038700902 0
 50C:\cours\Maison_web\node_modules\is-json\README.md133209312037790116 0
@@ -2663,7 +2663,7 @@
 71C:\cours\Maison_web\node_modules\@swc\helpers\lib\_iterable_to_array.js133209312049435135 0
 67C:\cours\Maison_web\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133209312046912970 0
 71C:\cours\Maison_web\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133209312044290706 0
-45C:\cours\Maison_web\dist\image 3.49c03e41.png133224021496658347 0
+45C:\cours\Maison_web\dist\image 3.49c03e41.png133228337269254329 0
 69C:\cours\Maison_web\node_modules\cosmiconfig\dist\ExplorerBase.js.map133209312044525909 0
 84C:\cours\Maison_web\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133209312063902577 1
 67C:\cours\Maison_web\node_modules\cosmiconfig\dist\getDirectory.d.ts133209312047123159 0
@@ -3625,7 +3625,7 @@
 63C:\cours\Maison_web\node_modules\@parcel\workers\src\backend.js133209312042329018 0
 66C:\cours\Maison_web\node_modules\@parcel\workers\src\childState.js133209312043675180 0
 64C:\cours\Maison_web\node_modules\@parcel\workers\src\cpuCount.js133209312044515901 0
-45C:\cours\Maison_web\dist\showcase.d240a7d7.js133224021496122884 0
+45C:\cours\Maison_web\dist\showcase.d240a7d7.js133228337268558726 0
 60C:\cours\Maison_web\node_modules\@parcel\workers\src\threads133209312047818747 1
 66C:\cours\Maison_web\node_modules\@parcel\workers\src\WorkerFarm.js133209312049019771 0
 77C:\cours\Maison_web\node_modules\@parcel\workers\src\process\ProcessWorker.js133209312046722807 0
@@ -4302,29 +4302,29 @@
 44C:\cours\Maison_web\node_modules\.bin\terser133209312097090776 0
 48C:\cours\Maison_web\node_modules\.bin\terser.cmd133209312097090776 0
 48C:\cours\Maison_web\node_modules\.bin\terser.ps1133209312097100782 0
-42C:\cours\Maison_web\dist\about.aa381532.js133224021496823485 0
-35C:\cours\Maison_web\dist\about.html133224021496117883 0
-46C:\cours\Maison_web\dist\banner 1.73fceb80.png133224021496628317 0
-46C:\cours\Maison_web\dist\banner 2.f5599604.png133224021496743418 0
-42C:\cours\Maison_web\dist\Host.82ccad0e.png133224021496478199 0
-45C:\cours\Maison_web\dist\image 2.0318fc8a.png133224021496613319 0
+42C:\cours\Maison_web\dist\about.aa381532.js133228337269464496 0
+35C:\cours\Maison_web\dist\about.html133228364836617960 0
+46C:\cours\Maison_web\dist\banner 1.73fceb80.png133228337269334393 0
+46C:\cours\Maison_web\dist\banner 2.f5599604.png133228337269304369 0
+42C:\cours\Maison_web\dist\Host.82ccad0e.png133228337269224289 0
+45C:\cours\Maison_web\dist\image 2.0318fc8a.png133228337269209274 0
 53C:\cours\Maison_web\dist\image 2.0318fc8a.png.12320.q133211908510463367 0
-45C:\cours\Maison_web\dist\image 4.1d01789b.png133224021496473181 0
-45C:\cours\Maison_web\dist\image 5.9853b38d.png133224021496613319 0
+45C:\cours\Maison_web\dist\image 4.1d01789b.png133228337269224289 0
+45C:\cours\Maison_web\dist\image 5.9853b38d.png133228337269219291 0
 53C:\cours\Maison_web\dist\image 5.9853b38d.png.12320.p133211908510458364 0
-45C:\cours\Maison_web\dist\image 6.9fbc5f91.png133224021496663351 0
-45C:\cours\Maison_web\dist\image 8.eeca67f0.png133224021496613319 0
-43C:\cours\Maison_web\dist\index.02acbfcd.css133224026217179409 0
-47C:\cours\Maison_web\dist\index.02acbfcd.css.map133224026217204435 0
-35C:\cours\Maison_web\dist\index.html133224021496958604 0
+45C:\cours\Maison_web\dist\image 6.9fbc5f91.png133228337269254329 0
+45C:\cours\Maison_web\dist\image 8.eeca67f0.png133228337269259326 0
+43C:\cours\Maison_web\dist\index.02acbfcd.css133228337269224289 0
+47C:\cours\Maison_web\dist\index.02acbfcd.css.map133228337269379430 0
+35C:\cours\Maison_web\dist\index.html133228337269624643 0
 54C:\cours\Maison_web\dist\Pacifico-Regular.39e77e7b.ttf133210150944804660 0
-54C:\cours\Maison_web\dist\Pacifico-Regular.490218a6.ttf133224021496152908 0
-49C:\cours\Maison_web\dist\Rectangle 1.a76b67ac.png133224021496743418 0
-49C:\cours\Maison_web\dist\Rectangle 2.7f701ea7.png133224021496608299 0
-49C:\cours\Maison_web\dist\Rectangle 3.7ac1464c.png133224021496778460 0
-49C:\cours\Maison_web\dist\Rectangle 4.66326f22.png133224021496713395 0
-49C:\cours\Maison_web\dist\Rectangle 5.acac19f6.png133224021496608299 0
-49C:\cours\Maison_web\dist\Rectangle 6.850df9e7.png133224021496708385 0
-49C:\cours\Maison_web\dist\showcase.d240a7d7.js.map133224021496192949 0
-38C:\cours\Maison_web\dist\showcase.html133224021496938585 0
-46C:\cours\Maison_web\dist\views.9ae6abd1.js.map133224021496938585 0
+54C:\cours\Maison_web\dist\Pacifico-Regular.490218a6.ttf133228337268623781 0
+49C:\cours\Maison_web\dist\Rectangle 1.a76b67ac.png133228337269349408 0
+49C:\cours\Maison_web\dist\Rectangle 2.7f701ea7.png133228337269294357 0
+49C:\cours\Maison_web\dist\Rectangle 3.7ac1464c.png133228337269304369 0
+49C:\cours\Maison_web\dist\Rectangle 4.66326f22.png133228337269304369 0
+49C:\cours\Maison_web\dist\Rectangle 5.acac19f6.png133228337269299365 0
+49C:\cours\Maison_web\dist\Rectangle 6.850df9e7.png133228337269264328 0
+49C:\cours\Maison_web\dist\showcase.d240a7d7.js.map133228337268693834 0
+38C:\cours\Maison_web\dist\showcase.html133228337269639649 0
+46C:\cours\Maison_web\dist\views.9ae6abd1.js.map133228337269514564 0

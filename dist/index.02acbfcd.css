@@ -1,11 +1,13 @@
 @font-face {
   font-family: Pacifico;
   src: url("Pacifico-Regular.490218a6.ttf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: Poppins;
   src: url("Poppins-Regular.6d197962.ttf");
+  font-display: swap;
 }
 
 :root {
@@ -29,7 +31,6 @@ header {
   font-size: 28px;
   font-style: normal;
   font-weight: 400;
-  display: inline;
   position: relative;
   top: -13px;
   left: -10px;
@@ -350,6 +351,7 @@ header {
 }
 
 a {
+  color: #000;
   text-decoration: none;
 }
 
@@ -414,6 +416,97 @@ h1, h2 {
   text-align: center;
   opacity: .4;
   font-size: 14px;
+}
+
+@media (min-width: 0) and (max-width: 767.999px) {
+  .div_img {
+    flex-direction: column;
+    padding: 20px 0 0 10px;
+    display: flex;
+  }
+
+  #title {
+    font-size: 12px;
+    top: -17px;
+    left: 10px;
+  }
+
+  #house_img {
+    width: 60px;
+    height: 60px;
+  }
+
+  #nav_warper {
+    flex-flow: column-reverse wrap;
+    justify-content: center;
+    gap: 20px;
+    display: flex;
+  }
+
+  .nav_div {
+    justify-content: end;
+    padding-right: 50px;
+  }
+
+  #recenter {
+    position: static;
+    top: auto;
+    left: auto;
+    right: auto;
+  }
+
+  #filter_btn {
+    top: 295px;
+    left: 16px;
+    right: auto;
+  }
+
+  #img_list {
+    width: 100%;
+    flex-direction: column;
+    gap: 19px;
+    margin-top: 130px;
+  }
+
+  a[href*="showcase"] {
+    flex-direction: row;
+    display: flex;
+  }
+
+  .space-between {
+    width: 20%;
+    flex-direction: column;
+  }
+
+  .order_1 {
+    white-space: nowrap;
+    order: 1;
+    padding-top: 40px;
+    overflow: visible;
+  }
+
+  .order_2 {
+    white-space: nowrap;
+    order: 2;
+    overflow: visible;
+  }
+
+  .fw-700 {
+    margin-left: -100%;
+    font-size: 18px;
+  }
+
+  .fw-400 {
+    font-size: 15px;
+  }
+
+  .img_margin {
+    margin: 0 30px 0 0;
+  }
+
+  .flex_end {
+    align-self: flex-end;
+  }
 }
 
 /*# sourceMappingURL=index.02acbfcd.css.map */
